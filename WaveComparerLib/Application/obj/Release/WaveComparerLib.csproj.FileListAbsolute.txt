@@ -1,0 +1,13 @@
+C:\Users\Alex\AppData\Local\Temporary Projects\ClassLibrary1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Alex\AppData\Local\Temporary Projects\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\Alex\AppData\Local\Temporary Projects\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\Alex\AppData\Local\Temporary Projects\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\Alex\AppData\Local\Temporary Projects\ClassLibrary1\obj\Release\ClassLibrary1.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\WaveComparer\WaveComparerLib\WaveComparerLib\bin\Release\WaveComparerLib.dll
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\WaveComparer\WaveComparerLib\WaveComparerLib\bin\Release\WaveComparerLib.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\WaveComparer\WaveComparerLib\WaveComparerLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\WaveComparer\WaveComparerLib\WaveComparerLib\obj\Release\WaveComparerLib.dll
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\WaveComparer\WaveComparerLib\WaveComparerLib\obj\Release\WaveComparerLib.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\WaveComparer\WaveComparerLib\WaveComparerLib\bin\Release\WaveComparerLib.dll.config
+C:\Users\Alex\Dropbox\Visual Studio 2010\Projects\WaveComparer\WaveComparerLib\WaveComparerLib\obj\Release\WaveComparerLib.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Dropbox\Visual Studio 2010\Projects\WaveComparer\WaveComparerLib\WaveComparerLib\obj\Release\WaveComparerLib.dll
