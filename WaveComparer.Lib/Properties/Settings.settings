@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WaveComparerLib.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AudioFileToVectorMode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BandedSignalsVector</Value>
+    </Setting>
+    <Setting Name="StfftNumberOfFrames" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">200</Value>
+    </Setting>
+    <Setting Name="LibraryLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\WaveComparer\XmlLibrary.Xml</Value>
+    </Setting>
+    <Setting Name="FrequencyPartitions" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.06,0.60</Value>
+    </Setting>
+    <Setting Name="FrequencyLogarithmicScale" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MeasureLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\WaveComparer\TrainingMeasure.Xml</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
